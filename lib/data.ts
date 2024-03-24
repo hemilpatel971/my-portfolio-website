@@ -49,7 +49,7 @@ export const experiencesData = [
     description:
     "Machine Learning Engineer",
     icon: React.createElement(CgWorkAlt),
-    date: "Apr. 2019 - Jul. 2021",
+    date: "Feb. 2022 - Aug. 2022",
     pos: "right",
   },
   {
@@ -67,7 +67,7 @@ export const experiencesData = [
     description:
     "As a Data Analyst, crafted multiple dashboards featuring over 10 essential KPIs, utilizing various visualization tools.",
     icon: React.createElement(CgWorkAlt),
-    date: "April. 2019 - July. 2019",
+    date: "Apr. 2019 - Jul. 2019",
     pos: "right",
   },
   {
@@ -116,7 +116,7 @@ export const skillsData = [
   "TypeScript",
   "HTML",
   "CSS",
-  "React",
+  "React.js",
   "Next.js",
   "Node.js",
   "Git",
@@ -128,6 +128,6 @@ export const skillsData = [
   "Redis",
   "Redux",
   "GraphQL",
-  "Express",
+  "Express.js",
   "Django",
 ] as const;
