@@ -11,6 +11,7 @@ import { useSectionInView } from "@/lib/hooks";
 import { useActiveSectionContext } from "@/context/active-section-context";
 import { SiLeetcode } from "react-icons/si";
 import { TypeAnimation } from 'react-type-animation';
+import profileImg from "@/public/profile_img.jpg";
 
 export default function Intro() {
   const { ref } = useSectionInView("Home", 0.5);
@@ -33,13 +34,14 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/profile_img.jpg"
+              src= {profileImg}
               alt="Hemil profile pic"
-              width="300"
-              height="300"
-              quality="99"
+              width={300} 
+              height={300} 
+              quality={100}
               priority={true}
-              className="h-24 w-24 rounded-full object-cover border-[0.2rem] border-white shadow-xl"
+              className="rounded-full object-cover border-[0.2rem] border-white shadow-xl"
+              style={{ width: '250px', height: '250px' }} // Add inline style for width and height
             />
           </motion.div>
         </div>
