@@ -7,7 +7,7 @@ export default function Footer() {
         &copy; Developed By Hemil Patel.
       </small>
       <p className="text-xs">
-        built with React & Next.js (App Router & Server Actions), TypeScript, Tailwind CSS,
+        Built with React & Next.js (App Router & Server Actions), TypeScript, Tailwind CSS,
         Framer Motion, React Email & Resend, Vercel hosting.
       </p>
     </footer>
