@@ -33,7 +33,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/profile_img1.jpg"
+              src="/profile_img.jpg"
               alt="Hemil profile pic"
               width="300"
               height="300"

@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import portfolioImg from "@/public/portfolio.png";
+import cnnImg from "@/public/cnn.png";
+import expenseImg from "@/public/expense.png";
 
 export const links = [
   {
@@ -89,24 +89,24 @@ export const projectsData = [
     description:
       "I developed this project with the dual purpose of honing my programming skills through learning and providing a platform to showcase my projects.",
     tags: ["Node.JS", "Next.JS", "Tailwind", "TypeScript", "CSS"],
-    imageUrl: corpcommentImg,
+    imageUrl: portfolioImg,
     githubUrl: "https://github.com/hemilpatel971/",
-  },
-  {
-    title: "Damage car detection",
-    description:
-      "A CNN classification model to identify if a car is damaged or not from images and deployed as a web app using django.",
-    tags: ["Python", "Django", "Neural Networks"],
-    imageUrl: rmtdevImg,
-    githubUrl: "https://github.com/hemilpatel971/Damage-car-detection",
   },
   {
     title: "Expense tracker",
     description:
       "Built a personal expense tracker web app using MERN stack.",
     tags: ["Node.JS", "Express.js", "MongoDB", "React.js"],
-    imageUrl: wordanalyticsImg,
+    imageUrl: expenseImg,
     githubUrl: "https://github.com/hemilpatel971/Expense-tracker-personal",
+  },
+  {
+    title: "Damage car detection",
+    description:
+      "A CNN classification model to identify if a car is damaged or not from images and deployed as a web app using django.",
+    tags: ["Python", "Django", "Neural Networks"],
+    imageUrl: cnnImg,
+    githubUrl: "https://github.com/hemilpatel971/Damage-car-detection",
   },
 ] as const;
 
