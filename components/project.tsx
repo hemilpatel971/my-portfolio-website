@@ -33,7 +33,7 @@ export default function Project({
       className="group mb-3 sm:mb-8 last:mb-0"
     >
     <a
-        className="focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10 dark:text-white/60"
+        className="focus:scale-[1.15] hover:scale-[1.15] hover:text-gray-950 active:scale-105 transition cursor-pointer dark:bg-white/10 dark:text-white/60"
         href={githubUrl}
         target="_blank"
     >
