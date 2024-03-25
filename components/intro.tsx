@@ -56,12 +56,10 @@ export default function Intro() {
             <TypeAnimation
                 sequence={[
                   // Same substring at the start will only be typed once, initially
-                  'Machine learning Engineer',
-                  1000,
                   'Software Engineer',
                   1000,
                 ]}
-                speed={40}
+                speed={50}
                 style={{ fontSize: '1.5em' }}
             />
         </p>
@@ -95,7 +93,7 @@ export default function Intro() {
 
         <a
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 active:scale-105 transition cursor-pointer borderBlack dark:bg-white/10"
-          href="/Hemil_resume.pdf"
+          href="/My_resume.pdf"
           target="_blank"
         >
           My Resume{" "}
