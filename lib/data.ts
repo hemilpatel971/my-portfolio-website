@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import portfolioImg from "@/public/portfolio.png";
 import cnnImg from "@/public/cnn.png";
 import expenseImg from "@/public/expense.png";
+import catan from "@/public/catan.png";
 
 export const links = [
   {
@@ -85,11 +86,11 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "My personal portfolio",
+    title: "Catan Board Generator",
     description:
-      "I developed this project with the dual purpose of honing my programming skills through learning and providing a platform to showcase my projects.",
-    tags: ["Node.JS", "Next.JS", "Tailwind", "TypeScript", "CSS"],
-    imageUrl: portfolioImg,
+      "Created this project so that my friends and family can use this to generate random catan boards for Epic board game nights.",
+    tags: ["TypeScript", "CSS"],
+    imageUrl: catan,
     githubUrl: "https://github.com/hemilpatel971/",
   },
   {
@@ -107,6 +108,14 @@ export const projectsData = [
     tags: ["Python", "Django", "Neural Networks"],
     imageUrl: cnnImg,
     githubUrl: "https://github.com/hemilpatel971/Damage-car-detection",
+  },
+  {
+    title: "My personal portfolio",
+    description:
+      "I developed this project to improve my programming skills while also serving as a platform to showcase my work.",
+    tags: ["Node.JS", "Next.JS", "Tailwind", "TypeScript", "CSS"],
+    imageUrl: portfolioImg,
+    githubUrl: "https://github.com/hemilpatel971/",
   },
 ] as const;
 
