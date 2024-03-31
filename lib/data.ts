@@ -91,7 +91,7 @@ export const projectsData = [
       "Created this project so that my friends and family can use this to generate random catan boards for epic board game nights.",
     tags: ["TypeScript", "CSS"],
     imageUrl: catan,
-    githubUrl: "https://github.com/hemilpatel971/",
+    githubUrl: "https://catan-board-generator-xi.vercel.app/",
   },
   {
     title: "Expense tracker",
