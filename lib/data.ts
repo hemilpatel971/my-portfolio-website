@@ -88,7 +88,7 @@ export const projectsData = [
   {
     title: "Catan Board Generator",
     description:
-      "Created this project so that my friends and family can use this to generate random catan boards for Epic board game nights.",
+      "Created this project so that my friends and family can use this to generate random catan boards for epic board game nights.",
     tags: ["TypeScript", "CSS"],
     imageUrl: catan,
     githubUrl: "https://github.com/hemilpatel971/",
