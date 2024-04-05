@@ -48,7 +48,7 @@ export const experiencesData = [
     title: "Deets Digital Pvt. Ltd.",
     location: "Ahmedabad, India",
     description:
-    "As a Machine Learning Engineer, developed Flask-based REST APIs automating financing, sales forecasting, and inventory management, leading to $50k monthly revenue increase. Managed efficient databases, implemented CI/CD pipelines, reducing setup time.",
+    "As a Software Engineer, developed Flask-based REST APIs automating financing, sales forecasting, and inventory management, leading to $50k monthly revenue increase. Managed efficient databases, implemented CI/CD pipelines, reducing setup time.",
     icon: React.createElement(CgWorkAlt),
     date: "Feb. 2022 - Aug. 2022",
     pos: "right",
