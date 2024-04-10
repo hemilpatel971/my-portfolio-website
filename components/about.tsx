@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-          Through my tenure in data science, I've mastered the art of uncovering insights, manipulating data, 
+          Through my tenure in data science, I've practiced the art of uncovering insights, manipulating data, 
           and building machine learning models for predictive analytics.
       </p>
       <p className="mb-3">
