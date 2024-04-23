@@ -57,7 +57,7 @@ export const experiencesData = [
     title: "HiTech ISolutions LLP",
     location: "Ahmedabad, India",
     description:
-    "Data Scientist, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements. Led team, managed projects, and conducted code reviews.",
+    "Software Engineer, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements. Led team, managed projects, and conducted code reviews.",
     icon: React.createElement(CgWorkAlt),
     date: "Oct. 2019 - Jan. 2022",
     pos: "right",
@@ -66,7 +66,7 @@ export const experiencesData = [
     title: "Divine Infosys Pvt. Ltd.",
     location: "Ahmedabad, India",
     description:
-    "Data Analyst, crafted multiple dashboards featuring over 10 essential KPIs, utilizing various visualization tools.",
+    "Machine Learning Intern, crafted multiple dashboards featuring over 10 essential KPIs, utilizing various visualization tools.",
     icon: React.createElement(CgWorkAlt),
     date: "Apr. 2019 - Jul. 2019",
     pos: "right",
