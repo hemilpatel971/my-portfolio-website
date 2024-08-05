@@ -36,6 +36,15 @@ export const links = [
 
 export const experiencesData = [
   {
+    title: "Onsemi.",
+    location: "Arizona, USA",
+    description:
+    "Application Development and Data Integration Engineer",
+    icon: React.createElement(CgWorkAlt),
+    date: "Aug. 2024 - Present",
+    pos: "right",
+  },
+  {
     title: "Stevens Institute of Technology",
     location: "New Jersey, USA",
     description:

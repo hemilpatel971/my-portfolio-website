@@ -65,9 +65,11 @@ export default function Intro() {
         </p>
        
         <p>
-            I'm <b>Hemil</b>, a Computer Science master's student at Stevens Institute of Technology - USA, with over <b>three</b> years of
-            industry experience. I love implementing, scaling and deplyoing robust machine learning models and web apps in <b>Python</b> and <b>JavaScript</b>.
-            My focus is <b>Software Engineering</b>. Currently looking for <b>Full Time Opportunities</b>.
+            I'm <b>Hemil</b>, currently working at <b>Onsemi, USA</b> as a Software Engineer.
+            I graduated from Stevens Institute of Technology with a master's degree in Computer Science, with 
+            over <b>three</b> years of industry experience. I love implementing, scaling and deplyoing robust 
+            machine learning models and web applications.
+            
         </p>
       </motion.h1>
 
