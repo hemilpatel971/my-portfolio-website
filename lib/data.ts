@@ -57,7 +57,7 @@ export const experiencesData = [
     title: "Deets Digital Pvt. Ltd.",
     location: "Ahmedabad, India",
     description:
-    "Software Engineer, developed Flask-based REST APIs automating financing, sales forecasting, and inventory management, leading to $50k monthly revenue increase. Managed efficient databases, implemented CI/CD pipelines, reducing setup time.",
+    "Senior Software Engineer, developed Flask-based REST APIs automating financing, sales forecasting, and inventory management.",
     icon: React.createElement(CgWorkAlt),
     date: "Feb. 2022 - Aug. 2022",
     pos: "right",
@@ -66,7 +66,7 @@ export const experiencesData = [
     title: "HiTech ISolutions LLP",
     location: "Ahmedabad, India",
     description:
-    "Software Engineer, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements. Led team, managed projects, and conducted code reviews.",
+    "Senior Data Scientist, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements.",
     icon: React.createElement(CgWorkAlt),
     date: "Oct. 2019 - Jan. 2022",
     pos: "right",
