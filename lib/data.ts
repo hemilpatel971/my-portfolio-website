@@ -130,10 +130,10 @@ export const projectsData = [
 
 export const skillsData = [
   "Python",
+  "Java",
+  "Spring Boot",
   "JavaScript",
   "TypeScript",
-  "HTML",
-  "CSS",
   "React.js",
   "Next.js",
   "Node.js",
