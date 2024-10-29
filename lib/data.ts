@@ -39,7 +39,7 @@ export const experiencesData = [
     title: "Onsemi.",
     location: "Arizona, USA",
     description:
-    "Application Development and Data Integration Engineer",
+    "Software Development and Data Integration Engineer",
     icon: React.createElement(CgWorkAlt),
     date: "Aug. 2024 - Present",
     pos: "right",
@@ -66,7 +66,7 @@ export const experiencesData = [
     title: "HiTech ISolutions LLP",
     location: "Ahmedabad, India",
     description:
-    "Senior Data Scientist, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements.",
+    "Software Engineer - Data science, led development of credit default model, and product identification tool, achieving significant cost reduction, deployment time savings, and accuracy improvements.",
     icon: React.createElement(CgWorkAlt),
     date: "Oct. 2019 - Jan. 2022",
     pos: "right",
