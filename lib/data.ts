@@ -75,7 +75,7 @@ export const experiencesData = [
     title: "Divine Infosys Pvt. Ltd.",
     location: "Ahmedabad, India",
     description:
-    "Machine Learning Intern, crafted multiple dashboards featuring over 10 essential KPIs, utilizing various visualization tools.",
+    "Machine Learning Engineer, Developed Transformer model and crafted multiple dashboards featuring over 10 essential KPIs, utilizing various visualization tools.",
     icon: React.createElement(CgWorkAlt),
     date: "Apr. 2019 - Jul. 2019",
     pos: "right",
