@@ -67,7 +67,7 @@ export default function Intro() {
         <p>
             I'm <b>Hemil</b>, currently working at <b>Onsemi, USA</b> as a Software Engineer.
             I graduated from Stevens Institute of Technology with a master's degree in Computer Science, with 
-            over <b>three</b> years of industry experience. I love implementing, scaling and deplyoing robust 
+            over <b>Four</b> years of industry experience. I love implementing, scaling and deplyoing robust 
             machine learning models and web applications.
             
         </p>
